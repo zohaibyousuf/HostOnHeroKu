@@ -1,0 +1,9 @@
+"symfony/thanks": "^1.0"
+ https://www.kashipara.com/project/php/3258/phone-shop-management-system-in-php
+ https://www.sourcecodester.com/php/14924/online-mobile-store-management-system-using-php-free-source-code.html
+ https://www.sourcecodester.com/php/14412/mobile-shop-system-php-mysql.html
+ https://www.campcodes.com/projects/php/shop-management-system-in-php-mysql-free-download/
+ https://www.campcodes.com/downloads/free-download-shop-management-system-in-php-mysql/
+ https://phpgurukul.com/mobile-store-management-system-using-php-and-mysql/
+ https://www.freeprojectz.com/php-mysql-project/mobile-shop-management-system
+ https://en.sourcecodeaplikasi.info/mobile-shop-management-system-in-php-with-source-code-2/
